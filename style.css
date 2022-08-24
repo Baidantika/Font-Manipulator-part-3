@@ -1,0 +1,26 @@
+.note{
+    font-size: 15px;
+    color:black;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    background-color:grey;
+    color:white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
+    line-height: 3;
+}
+.heading{
+    margin-top:0;
+    font-size: 25px;
+    width:100%;
+    box-shadow:5px 5px grey;
+}
+canvas{
+    border:5px solid black;
+    border-radius: 50px;
+    box-shadow:5px 5px 5px pink;
+    background-color: white;
+}
